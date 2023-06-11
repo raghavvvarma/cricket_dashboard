@@ -1,0 +1,20 @@
+.player-table {
+    margin-bottom: 20px;
+  }
+  
+  .player-table table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .player-table th,
+  .player-table td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+  }
+  
+  .player-table th {
+    background-color: #f0f0f0;
+  }
+  
